@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1619508520 source:d:\ltnc2\code\game_caro_sdl\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+	"SDL_utils.h"
+	"display.h"
+	"player3.h"
+	"2Player16.h"
+
+1619364096 d:\ltnc2\code\game_caro_sdl\sdl_utils.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1619364096 source:d:\ltnc2\code\game_caro_sdl\sdl_utils.cpp
+	"SDL_utils.h"
+	<iostream>
+
+1619337468 source:d:\ltnc2\code\game_caro_sdl\display.cpp
+	"display.h"
+
+1619337468 d:\ltnc2\code\game_caro_sdl\display.h
+	<SDL.h>
+	<SDL_image.h>
+	"SDL_utils.h"
+
+1619253939 source:d:\ltnc2\code\game_caro_sdl\1player.cpp
+	"1Player.h"
+
+1619253987 d:\ltnc2\code\game_caro_sdl\1player.h
+	<SDL.h>
+	"SDL_utils.h"
+
+1619253572 d:\ltnc2\code\game_caro_sdl\2player.h
+	<SDL.h>
+	"SDL_utils.h"
+	"1Player.h"
+
+1619253963 source:d:\ltnc2\code\game_caro_sdl\2player.cpp
+
+1619508880 source:d:\ltnc2\code\game_caro_sdl\2player16.cpp
+	"2Player16.h"
+
+1619508751 source:d:\ltnc2\code\game_caro_sdl\player3.cpp
+	"player3.h"
+
+1619364158 d:\ltnc2\code\game_caro_sdl\player3.h
+	<SDL.h>
+	"SDL_utils.h"
+	"display.h"
+	<SDL_mixer.h>
+
+1619365339 d:\ltnc2\code\game_caro_sdl\2player16.h
+	<SDL.h>
+	<SDL_mixer.h>
+	"SDL_utils.h"
+
+1619337468 source:c:\users\user\onedrive\máy tính\game_caro_sdl\display.cpp
+	"display.h"
+
+1619337468 c:\users\user\onedrive\máy tính\game_caro_sdl\display.h
+	<SDL.h>
+	<SDL_image.h>
+	"SDL_utils.h"
+
+1619364096 c:\users\user\onedrive\máy tính\game_caro_sdl\sdl_utils.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1619508751 source:c:\users\user\onedrive\máy tính\game_caro_sdl\player3.cpp
+	"player3.h"
+
+1619364158 c:\users\user\onedrive\máy tính\game_caro_sdl\player3.h
+	<SDL.h>
+	"SDL_utils.h"
+	"display.h"
+	<SDL_mixer.h>
+
+1619364096 source:c:\users\user\onedrive\máy tính\game_caro_sdl\sdl_utils.cpp
+	"SDL_utils.h"
+	<iostream>
+
+1619412510 source:c:\users\user\onedrive\máy tính\game_caro_sdl\2player16.cpp
+	"2Player16.h"
+
+1619365339 c:\users\user\onedrive\máy tính\game_caro_sdl\2player16.h
+	<SDL.h>
+	<SDL_mixer.h>
+	"SDL_utils.h"
+
+1619508520 source:c:\users\user\onedrive\máy tính\game_caro_sdl\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_mixer.h>
+	"SDL_utils.h"
+	"display.h"
+	"player3.h"
+	"2Player16.h"
+
